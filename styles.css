@@ -327,7 +327,7 @@ footer {
   background-color: var(--text-dark); 
   color: #ffffff;
   gap: 10px;               
-  width: 100%;
+  width: 100%;     
 }
 
 footer a {
